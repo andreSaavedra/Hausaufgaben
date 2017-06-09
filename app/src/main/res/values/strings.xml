@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">ZWEIACTIVITIES</string>
+    <string name="eins_activity">eins activity</string>
+    <string name="boton1">Activity 2</string>
+    <string name="regresar_a_activity_1">Regresar a Activity 1</string>
+    <string name="zwei_aktivit_ten">Zwei Aktivitäten</string>
+    <string name="creador_por_andr_s_saavedra_palomino">Creador por Andrés Saavedra Palomino</string>
+</resources>
